@@ -10,6 +10,9 @@
 int main(int argc, char **argv) {
     printf("Tate Le!\n");
     
+    printf("Tommy Nguyen!\n");
+    printf("Computer Science!\n");
+    
     return 0;
     
 }
